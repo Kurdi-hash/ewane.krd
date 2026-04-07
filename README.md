@@ -2,7 +2,7 @@
 
 An advanced automation framework developed in PHP, leveraging Selenium WebDriver and deep learning models to analyze and bypass alphanumeric CAPTCHA systems. The tool features a dual-mode engine for both targeted and randomized authentication testing.
 
-![Ewane Bot Preview](assets/sd.png)
+![Ewane Bot Preview](assets/sd.PNG)
 ---
 
 ## Technical Architecture
